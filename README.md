@@ -1,6 +1,8 @@
 # -SQL-Window-Functions-i-Project
 This hands-on project is your one-stop guide to understanding and applying SQL Window Functions using MySQL Workbench. Whether you're a student, analyst, or interview candidate — this .sql file covers the most in-demand and tricky SQL concepts with clean, real-world examples.
-
+---
+2
+---
 📦 Practical Concepts:
 📊 Aggregate Functions with OVER()
 → MAX(), MIN(), SUM(), AVG() across partitions
